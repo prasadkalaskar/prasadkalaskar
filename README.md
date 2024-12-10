@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasadkalaskar" alt="prasadkalaskar" /></a> </p>
 
-- 💬 Ask me about **Test automation, Docker, K8's**
+- 💬 Ask me about **Test automation, DevOps, Cloud**
 
 <p>
   I’m a <strong>Test Automation Architect</strong> with expertise in <strong>Quality Assurance</strong>, <strong>Data Engineering</strong>, and <strong>DevOps</strong>. My passion for technology drives me to continuously explore innovative ways to deliver impactful solutions through cloud technologies. I hold <strong>3 Cloud Certifications</strong>, showcasing my commitment to staying at the forefront of modern technological advancements.
