@@ -7,11 +7,13 @@
 
 - 💬 Ask me about **Test automation, Docker, K8's**
 
-<p>I'm a Google Cloud Architect specializing in Google Cloud, Data Engineering, DevOps, Terraform, and AI technologies.</p>
+<p>
+  I’m a <strong>Test Automation Architect</strong> with expertise in <strong>Quality Assurance</strong>, <strong>Data Engineering</strong>, and <strong>DevOps</strong>. My passion for technology drives me to continuously explore innovative ways to deliver impactful solutions through cloud technologies. I hold <strong>3 Cloud Certifications</strong>, showcasing my commitment to staying at the forefront of modern technological advancements.
+</p>
 
-<p>My passion for technology and innovation has led me to become fully certified (11x) in Google Cloud and a Champion Innovator, always seeking new ways to leverage cloud technologies for innovative solutions.</p>
-
-<p>But I'm not just a cloud enthusiast! When I'm not working on exciting cloud projects, you can find me exploring the outdoors and capturing stunning landscapes with my camera. As a photographer, I'm constantly inspired by the beauty of nature and the amazing places I get to visit, along with trying amazing food.</p>
+<p>
+  Beyond work, I am an <strong>avid photographer</strong>, capturing stunning landscapes that inspire me. I also enjoy <strong>cricket</strong>, <strong>traveling</strong>, and <strong>exploring the outdoors</strong>, always seeking new adventures and experiences.
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
